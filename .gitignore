@@ -1,0 +1,10 @@
+*.ipr
+*.iws
+*.iml
+.gradle
+.idea
+out
+target
+build
+foo-consumer-version
+
